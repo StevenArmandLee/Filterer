@@ -213,6 +213,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     }
     
     
+    
     @IBAction func touchDown(sender: AnyObject) {
         changeImage(true)
     }
